@@ -1,0 +1,3 @@
+Build REST API that supports the new marketplace website.
+In-memory database is sufficient. Optionally, you are welcome to use a persistent data store of your choice.
+You are encouraged but not required to take advantage of a service code-generation framework of your choice when performing this exercise.
